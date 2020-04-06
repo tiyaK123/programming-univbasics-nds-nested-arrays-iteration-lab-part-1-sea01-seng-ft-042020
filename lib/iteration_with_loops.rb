@@ -7,7 +7,7 @@ def find_even_values(src)
      num = 0 
      while src[count].length > num do
        
-       if src[num] % 2 == 0 
+       if src[num] % 2 == 0 do 
          puts src[num]
       end
       num += 1 
